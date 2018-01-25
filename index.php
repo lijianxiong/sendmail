@@ -81,4 +81,3 @@ $('#show').click(
 </script>
 </body>
 </html>
-<!--nobita-->
